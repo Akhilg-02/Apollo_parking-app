@@ -1,0 +1,17 @@
+
+
+.inpOuter{
+    border: 2px solid green;
+    width: 50%;
+    margin: auto;
+    padding: 3vh;
+    background-color:firebrick;
+    border-radius: 2vh;
+    
+}
+
+.checkbox{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content:space-around;
+}
